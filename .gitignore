@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+/ncnn
+/opencv-mobile
+
+.vscode/
+
+build/
+
+*.bin
+*.pth
+*.pt
+*.onnx
