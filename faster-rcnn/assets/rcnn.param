@@ -1,0 +1,10 @@
+7767517
+8 9
+Input                    in0                      0 1 in0
+Flatten                  flatten_7                1 1 in0 1
+InnerProduct             fcrelu_0                 1 1 1 2 0=1024 1=1 2=12845056 9=1
+InnerProduct             fcrelu_1                 1 1 2 3 0=1024 1=1 2=1048576 9=1
+Split                    splitncnn_0              1 2 3 4 5
+InnerProduct             linear_3                 1 1 5 6 0=81 1=1 2=82944
+Softmax                  softmax_0                1 1 6 out0 0=1 1=1
+InnerProduct             linear_4                 1 1 4 out1 0=320 1=1 2=327680
