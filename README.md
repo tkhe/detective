@@ -6,7 +6,7 @@
 
 ### **通用目标检测**
 
-- [ ] CenterNet
+- [X] [CenterNet](centernet)
 - [ ] RTMDet
 - [ ] YOLOX
 - [ ] YOLOv8
