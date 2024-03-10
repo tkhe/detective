@@ -16,7 +16,7 @@
 - [ ] RTMDet-Rotate
 
 ### **人体姿态估计**
-- [ ] YOLO-Pose
+- [X] [YOLOX-Pose](yolox-pose)
 
 ## 感谢
 
