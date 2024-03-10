@@ -11,6 +11,7 @@
 - [X] [YOLOX](yolox)
 - [X] [YOLOv8](yolov8)
 - [ ] Faster R-CNN
+- [X] [PP-YOLOE+](ppyoloe-plus)
 
 ### **旋转目标检测**
 - [ ] RTMDet-Rotate
