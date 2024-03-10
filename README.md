@@ -14,7 +14,7 @@
 - [X] [PP-YOLOE+](ppyoloe-plus)
 
 ### **旋转目标检测**
-- [ ] RTMDet-Rotate
+- [X] [RTMDet-Rotate](rtmdet-rotate)
 
 ### **人体姿态估计**
 - [X] [YOLOX-Pose](yolox-pose)
