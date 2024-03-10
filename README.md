@@ -9,7 +9,7 @@
 - [X] [CenterNet](centernet)
 - [X] [RTMDet](rtmdet)
 - [ ] YOLOX
-- [ ] YOLOv8
+- [X] [YOLOv8](yolov8)
 - [ ] Faster R-CNN
 
 ### **旋转目标检测**
