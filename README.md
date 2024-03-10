@@ -7,7 +7,7 @@
 ### **通用目标检测**
 
 - [X] [CenterNet](centernet)
-- [ ] RTMDet
+- [X] [RTMDet](rtmdet)
 - [ ] YOLOX
 - [ ] YOLOv8
 - [ ] Faster R-CNN
