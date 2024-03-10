@@ -8,7 +8,7 @@
 
 - [X] [CenterNet](centernet)
 - [X] [RTMDet](rtmdet)
-- [ ] YOLOX
+- [X] [YOLOX](yolox)
 - [X] [YOLOv8](yolov8)
 - [ ] Faster R-CNN
 
