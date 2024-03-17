@@ -12,12 +12,18 @@
 - [X] [YOLOv8](yolov8)
 - [X] [Faster R-CNN](faster_rcnn)
 - [X] [PP-YOLOE+](ppyoloe-plus)
+- [ ] AutoAssign
+- [ ] SSD-Lite
+- [ ] FCOS
 
 ### **旋转目标检测**
 - [X] [RTMDet-Rotate](rtmdet-rotate)
 
 ### **人体姿态估计**
 - [X] [YOLOX-Pose](yolox-pose)
+- [ ] Keypoint R-CNN
+- [ ] RTMPose
+- [ ] RTMO
 
 ## 感谢
 
